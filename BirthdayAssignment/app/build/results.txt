@@ -1,0 +1,15 @@
+------------------------------Assignment Evaluation-----------------------------
+--------Your solution received points for the following grading rubrics:--------
+
+
+testCalculateThreshold
+Rubric Score: 40.0/40.0
+Goal: The goal of this evaluation is to test Calculate with return values within
+a threshold
+Reference: This Test fails when: calculate method failed to meet a 3% threshold.
+
+testResultRange
+Rubric Score: 40.0/40.0
+Goal: The goal of this evaluation is to test ResultRange
+Reference: This Test fails when: calculate returns a value outside the range.
+

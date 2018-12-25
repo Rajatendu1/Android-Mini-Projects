@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn-rBD\\values-bn-rBD.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,404,516,622,716,821,951,1061,1177,1284,1394,1500,1610",
+                        "endColumns": "108,111,105,93,104,129,109,115,106,109,105,109,124",
+                        "endOffsets": "399,511,617,711,816,946,1056,1172,1279,1389,1495,1605,1730"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,276,382,476,581,711,821,937,1044,1154,1260,1370",
+                        "endColumns": "108,111,105,93,104,129,109,115,106,109,105,109,124",
+                        "endOffsets": "159,271,377,471,576,706,816,932,1039,1149,1255,1365,1490"
+                    }
+                }
+            ]
+        }
+    ]
+}

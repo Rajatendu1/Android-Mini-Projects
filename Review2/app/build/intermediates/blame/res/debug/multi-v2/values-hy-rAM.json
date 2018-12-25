@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,398,499,609,699,805,920,1027,1134,1233,1343,1450,1551",
+                        "endColumns": "102,100,109,89,105,114,106,106,98,109,106,100,119",
+                        "endOffsets": "393,494,604,694,800,915,1022,1129,1228,1338,1445,1546,1666"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,259,369,459,565,680,787,894,993,1103,1210,1311",
+                        "endColumns": "102,100,109,89,105,114,106,106,98,109,106,100,119",
+                        "endOffsets": "153,254,364,454,560,675,782,889,988,1098,1205,1306,1426"
+                    }
+                }
+            ]
+        }
+    ]
+}

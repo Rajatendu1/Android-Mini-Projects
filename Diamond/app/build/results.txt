@@ -1,0 +1,44 @@
+------------------------------Assignment Evaluation-----------------------------
+--------Your solution received points for the following grading rubrics:--------
+
+
+testDiamond1
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to test Diamond 1
+Reference: This Test fails when: The Diamond size 1 is wrong
+
+testDiamond2
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to test Diamond 2
+Reference: This Test fails when: The Diamond size 2 is wrong
+
+testDiamond3
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to test Diamond 3
+Reference: This Test fails when: The Diamond size 3 is wrong
+
+testDiamond5
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to test Diamond 5
+Reference: This Test fails when: The Diamond size 5 is wrong
+
+testDiamond4
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to test Diamond 4
+Reference: This Test fails when: The Diamond size 4 is wrong
+
+testDiamond6
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to test Diamond 6
+Reference: This Test fails when: The Diamond size 6 is wrong
+
+testDiamond7
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to test Diamond 7
+Reference: This Test fails when: The Diamond size 7 is wrong
+
+testDiamond8
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to test Diamond 8
+Reference: This Test fails when: The Diamond size 8 is wrong
+

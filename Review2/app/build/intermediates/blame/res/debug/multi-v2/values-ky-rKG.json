@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky-rKG\\values-ky-rKG.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,399,494,613,697,804,921,1031,1138,1236,1342,1449,1550",
+                        "endColumns": "103,94,118,83,106,116,109,106,97,105,106,100,123",
+                        "endOffsets": "394,489,608,692,799,916,1026,1133,1231,1337,1444,1545,1669"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,254,373,457,564,681,791,898,996,1102,1209,1310",
+                        "endColumns": "103,94,118,83,106,116,109,106,97,105,106,100,123",
+                        "endOffsets": "154,249,368,452,559,676,786,893,991,1097,1204,1305,1429"
+                    }
+                }
+            ]
+        }
+    ]
+}

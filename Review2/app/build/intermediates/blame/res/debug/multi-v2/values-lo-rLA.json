@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo-rLA\\values-lo-rLA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,398,495,602,687,792,904,1011,1108,1206,1311,1414,1518",
+                        "endColumns": "102,96,106,84,104,111,106,96,97,104,102,103,121",
+                        "endOffsets": "393,490,597,682,787,899,1006,1103,1201,1306,1409,1513,1635"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,255,362,447,552,664,771,868,966,1071,1174,1278",
+                        "endColumns": "102,96,106,84,104,111,106,96,97,104,102,103,121",
+                        "endOffsets": "153,250,357,442,547,659,766,863,961,1066,1169,1273,1395"
+                    }
+                }
+            ]
+        }
+    ]
+}

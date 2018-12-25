@@ -1,0 +1,82 @@
+------------------------------Assignment Evaluation-----------------------------
+--------Your solution received points for the following grading rubrics:--------
+
+
+testGateConstructor
+Rubric Score: 4.0/4.0
+Goal: The goal of this evaluation is to test GateConstructor
+Reference: This Test fails when: The Could not create Gate object
+
+testGateToStringWhenOpenedIn
+Rubric Score: 3.0/3.0
+Goal: The goal of this evaluation is to test GateToString
+Reference: This Test fails when: The method toString() is not created properly
+
+testInvalidSwingParameter
+Rubric Score: 4.0/4.0
+Goal: The goal of this evaluation is to test InvalidSwingParameter
+Reference: This Test fails when: The Gate was set to invalid number
+
+testThruWhenClosed
+Rubric Score: 4.0/4.0
+Goal: The goal of this evaluation is to test ThruWhenClosed
+Reference: This Test fails when: The gate Allowed thru() when gate was closed
+
+testGateToStringWhenOpenedOut
+Rubric Score: 3.0/3.0
+Goal: The goal of this evaluation is to test GateToString
+Reference: This Test fails when: The method toString() is not created properly
+
+testGateToStringWhenClosed
+Rubric Score: 3.0/3.0
+Goal: The goal of this evaluation is to test GateToString
+Reference: This Test fails when: The method toString() is not created properly
+
+testGateToString
+Rubric Score: 3.0/3.0
+Goal: The goal of this evaluation is to test GateToString
+Reference: This Test fails when: The method toString() is not created properly
+
+testOpenIn
+Rubric Score: 4.0/4.0
+Goal: The goal of this evaluation is to test Open(Gate.IN)
+Reference: This Test fails when: The Gate could not be set to IN or the open
+method returns false
+
+testOpenClose
+Rubric Score: 4.0/4.0
+Goal: The goal of this evaluation is to test open(Gate.CLOSED)
+Reference: This Test fails when: Gate open does not return false when passed a
+value of CLOSED or if the swing state is changed by this call
+
+testOpenOut
+Rubric Score: 4.0/4.0
+Goal: The goal of this evaluation is to test Open(Gate.OUT)
+Reference: This Test fails when: The Gate could not be set to OUT or the open
+method returns false
+
+testCloseGate
+Rubric Score: 4.0/4.0
+Goal: The goal of this evaluation is to test CloseGate
+Reference: This Test fails when: The Gate did not close properly
+
+testSetSwingIn
+Rubric Score: 3.0/3.0
+Goal: The goal of this evaluation is to test SetSwingIn
+Reference: This Test fails when: The Gate could not be set to swing IN
+
+testSetSwingOut
+Rubric Score: 3.0/3.0
+Goal: The goal of this evaluation is to test SetSwingOut
+Reference: This Test fails when: The Gate could not be set to swing OUT
+
+testThruIn
+Rubric Score: 4.0/4.0
+Goal: The goal of this evaluation is to test ThruIn
+Reference: This Test fails when: The gate allows thru() with IN
+
+testThruOut
+Rubric Score: 4.0/4.0
+Goal: The goal of this evaluation is to test ThruOut
+Reference: This Test fails when: The gate allows thru() with OUT
+

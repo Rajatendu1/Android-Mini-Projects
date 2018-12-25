@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne-rNP\\values-ne-rNP.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,400,504,612,703,810,937,1047,1163,1266,1381,1483,1598",
+                        "endColumns": "104,103,107,90,106,126,109,115,102,114,101,114,130",
+                        "endOffsets": "395,499,607,698,805,932,1042,1158,1261,1376,1478,1593,1724"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,264,372,463,570,697,807,923,1026,1141,1243,1358",
+                        "endColumns": "104,103,107,90,106,126,109,115,102,114,101,114,130",
+                        "endOffsets": "155,259,367,458,565,692,802,918,1021,1136,1238,1353,1484"
+                    }
+                }
+            ]
+        }
+    ]
+}

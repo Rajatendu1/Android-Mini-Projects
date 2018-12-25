@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,391,486,586,668,765,871,967,1063,1158,1255,1350,1448",
+                        "endColumns": "95,94,99,81,96,105,95,95,94,96,94,97,111",
+                        "endOffsets": "386,481,581,663,760,866,962,1058,1153,1250,1345,1443,1555"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,246,346,428,525,631,727,823,918,1015,1110,1208",
+                        "endColumns": "95,94,99,81,96,105,95,95,94,96,94,97,111",
+                        "endOffsets": "146,241,341,423,520,626,722,818,913,1010,1105,1203,1315"
+                    }
+                }
+            ]
+        }
+    ]
+}

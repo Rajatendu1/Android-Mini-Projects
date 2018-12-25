@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-is-rIS\\values-is-rIS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,395,492,604,689,790,904,1014,1122,1220,1329,1428,1531",
+                        "endColumns": "99,96,111,84,100,113,109,107,97,108,98,102,117",
+                        "endOffsets": "390,487,599,684,785,899,1009,1117,1215,1324,1423,1526,1644"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,252,364,449,550,664,774,882,980,1089,1188,1291",
+                        "endColumns": "99,96,111,84,100,113,109,107,97,108,98,102,117",
+                        "endOffsets": "150,247,359,444,545,659,769,877,975,1084,1183,1286,1404"
+                    }
+                }
+            ]
+        }
+    ]
+}

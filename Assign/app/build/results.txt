@@ -1,0 +1,54 @@
+------------------------------Assignment Evaluation-----------------------------
+--------Your solution received points for the following grading rubrics:--------
+
+
+testCircleCircumference
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the CircleCircumference
+Reference: This Test fails when: The Circle circumference is miscalculated
+
+testRectangleArea
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the RectangleArea
+Reference: This Test fails when: The Rectangle area is miscalculated
+
+testTrianglePerimeter
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the TrianglePerimeter
+Reference: This Test fails when: The Triange perimeter is miscalculated
+
+testSphereSurfaceArea
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the SphereSurfaceArea
+Reference: This Test fails when: The Sphere surface area is miscalculated
+
+testRectanglePerimeter
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the RectanglePerimeter
+Reference: This Test fails when: The Rectangle perimeter is miscalculated
+
+testTriangleArea
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the TriangleArea
+Reference: This Test fails when: The Triange area is miscalculated
+
+testBoxSurfaceArea
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the BoxSurfaceArea
+Reference: This Test fails when: The Box surface area is miscalculated
+
+testBoxVolume
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the BoxVolume
+Reference: This Test fails when: The Box volume is miscalculated
+
+testCircleArea
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the CircleArea
+Reference: This Test fails when: The Circle area is miscalculated
+
+testSphereVolume
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the SphereVolume
+Reference: This Test fails when: The Sphere volume is miscalculated
+

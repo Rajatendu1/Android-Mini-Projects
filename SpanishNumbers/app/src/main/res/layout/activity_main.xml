@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <android.support.v7.widget.GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/one"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/one"
+            android:onClick="one"
+            android:text="@string/one"
+            app:layout_column="0"
+            app:layout_columnWeight="1"
+            app:layout_row="0"
+            app:layout_rowWeight="1"
+            tools:text="@string/one" />
+
+        <Button
+            android:id="@+id/two"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/two"
+            android:onClick="playMusic"
+            android:text="@string/two"
+            app:layout_column="1"
+            app:layout_columnWeight="1"
+            app:layout_row="0"
+            app:layout_rowWeight="1"
+            tools:text="@string/two" />
+
+        <Button
+            android:id="@+id/three"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/three"
+            android:onClick="playMusic"
+            android:text="@string/three"
+            app:layout_column="0"
+            app:layout_columnWeight="1"
+            app:layout_row="1"
+            app:layout_rowWeight="1"
+            tools:text="@string/three" />
+
+        <Button
+            android:id="@+id/four"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/four"
+            android:onClick="playMusic"
+            android:text="@string/four"
+            app:layout_column="1"
+            app:layout_columnWeight="1"
+            app:layout_row="1"
+            app:layout_rowWeight="1"
+            tools:text="@string/four" />
+
+        <Button
+            android:id="@+id/five"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/five"
+            android:onClick="playMusic"
+            android:text="@string/five"
+            app:layout_column="0"
+            app:layout_columnWeight="1"
+            app:layout_row="2"
+            app:layout_rowWeight="1"
+            tools:text="@string/five" />
+
+        <Button
+            android:id="@+id/six"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/six"
+            android:onClick="playMusic"
+            android:text="@string/six"
+            app:layout_column="1"
+            app:layout_columnWeight="1"
+            app:layout_row="2"
+            app:layout_rowWeight="1"
+            tools:text="@string/six" />
+
+        <Button
+            android:id="@+id/seven"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/one"
+            android:onClick="playMusic"
+            android:text="@string/seven"
+            app:layout_column="0"
+            app:layout_columnWeight="1"
+            app:layout_row="3"
+            app:layout_rowWeight="1"
+            tools:text="@string/seven" />
+
+        <Button
+            android:id="@+id/eight"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/two"
+            android:onClick="playMusic"
+            android:text="@string/eight"
+            app:layout_column="1"
+            app:layout_columnWeight="1"
+            app:layout_row="3"
+            app:layout_rowWeight="1"
+            tools:text="@string/eight" />
+
+        <Button
+            android:id="@+id/nine"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/three"
+            android:onClick="playMusic"
+            android:text="@string/nine"
+            app:layout_column="0"
+            app:layout_columnWeight="1"
+            app:layout_row="4"
+            app:layout_rowWeight="1"
+            tools:text="@string/nine" />
+
+        <Button
+            android:id="@+id/ten"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/five"
+            android:onClick="playMusic"
+            android:text="@string/ten"
+            app:layout_column="1"
+            app:layout_columnWeight="1"
+            app:layout_row="4"
+            app:layout_rowWeight="1"
+            tools:text="@string/ten" />
+
+    </android.support.v7.widget.GridLayout>
+</android.support.constraint.ConstraintLayout>

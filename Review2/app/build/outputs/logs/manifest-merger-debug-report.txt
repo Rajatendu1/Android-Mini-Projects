@@ -1,0 +1,76 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:design:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\da3592bc156dbd7207ddefa22a8058fb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\db3f6e4978852217adee1fd0a4ba05e7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\6bdc6dfb44e62110a3b9a8b54c45f22c\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:5:5-17:19
+MERGED from [com.android.support:design:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\da3592bc156dbd7207ddefa22a8058fb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\da3592bc156dbd7207ddefa22a8058fb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\db3f6e4978852217adee1fd0a4ba05e7\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\db3f6e4978852217adee1fd0a4ba05e7\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\6bdc6dfb44e62110a3b9a8b54c45f22c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\6bdc6dfb44e62110a3b9a8b54c45f22c\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:6:9-35
+activity#mooc.vandy.java4android.calculator.ui.MainActivity
+ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:11:9-16:20
+	android:name
+		ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:11:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\da3592bc156dbd7207ddefa22a8058fb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\da3592bc156dbd7207ddefa22a8058fb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\db3f6e4978852217adee1fd0a4ba05e7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\db3f6e4978852217adee1fd0a4ba05e7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\6bdc6dfb44e62110a3b9a8b54c45f22c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\KIIT\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\6bdc6dfb44e62110a3b9a8b54c45f22c\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KIIT\AndroidStudioProjects\Review2\app\src\main\AndroidManifest.xml

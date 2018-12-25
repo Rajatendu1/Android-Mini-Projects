@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms-rMY\\values-ms-rMY.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,406,511,619,706,810,921,1033,1142,1239,1348,1451,1558",
+                        "endColumns": "110,104,107,86,103,110,111,108,96,108,102,106,121",
+                        "endOffsets": "401,506,614,701,805,916,1028,1137,1234,1343,1446,1553,1675"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,166,271,379,466,570,681,793,902,999,1108,1211,1318",
+                        "endColumns": "110,104,107,86,103,110,111,108,96,108,102,106,121",
+                        "endOffsets": "161,266,374,461,565,676,788,897,994,1103,1206,1313,1435"
+                    }
+                }
+            ]
+        }
+    ]
+}

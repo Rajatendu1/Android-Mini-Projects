@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-km-rKH\\values-km-rKH.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-km-rKH\\values-km-rKH.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,398,498,610,697,801,919,1023,1128,1228,1338,1445,1553",
+                        "endColumns": "102,99,111,86,103,117,103,104,99,109,106,107,122",
+                        "endOffsets": "393,493,605,692,796,914,1018,1123,1223,1333,1440,1548,1671"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,258,370,457,561,679,783,888,988,1098,1205,1313",
+                        "endColumns": "102,99,111,86,103,117,103,104,99,109,106,107,122",
+                        "endOffsets": "153,253,365,452,556,674,778,883,983,1093,1200,1308,1431"
+                    }
+                }
+            ]
+        }
+    ]
+}

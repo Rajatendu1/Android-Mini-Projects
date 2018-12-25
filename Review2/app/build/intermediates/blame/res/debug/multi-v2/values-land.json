@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "4,7,10,11,14,17,18",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "291,590,908,978,1285,1595,1666",
+                        "endColumns": "61,71,69,69,63,70,67",
+                        "endOffsets": "348,657,973,1043,1344,1661,1729"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,189,259,329,393,464",
+                        "endColumns": "61,71,69,69,63,70,67",
+                        "endOffsets": "112,184,254,324,388,459,527"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\da3592bc156dbd7207ddefa22a8058fb\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "286",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "463"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "532",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "709"
+                    }
+                }
+            ]
+        }
+    ]
+}

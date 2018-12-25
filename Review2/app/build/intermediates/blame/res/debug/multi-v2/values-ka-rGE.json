@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka-rGE\\values-ka-rGE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,404,508,619,707,812,925,1038,1145,1243,1356,1460,1564",
+                        "endColumns": "108,103,110,87,104,112,112,106,97,112,103,103,121",
+                        "endOffsets": "399,503,614,702,807,920,1033,1140,1238,1351,1455,1559,1681"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,268,379,467,572,685,798,905,1003,1116,1220,1324",
+                        "endColumns": "108,103,110,87,104,112,112,106,97,112,103,103,121",
+                        "endOffsets": "159,263,374,462,567,680,793,900,998,1111,1215,1319,1441"
+                    }
+                }
+            ]
+        }
+    ]
+}

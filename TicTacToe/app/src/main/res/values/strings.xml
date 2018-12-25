@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="button">Play Again</string>
+    <string name="Creator">Created by Rajatendu Dey</string>
+</resources>

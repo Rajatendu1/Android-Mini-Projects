@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uz-rUZ\\values-uz-rUZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,400,504,621,707,818,934,1043,1150,1249,1357,1462",
+                        "endColumns": "104,103,116,85,110,115,108,106,98,107,104,104",
+                        "endOffsets": "395,499,616,702,813,929,1038,1145,1244,1352,1457,1562"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,264,381,467,578,694,803,910,1009,1117,1222",
+                        "endColumns": "104,103,116,85,110,115,108,106,98,107,104,104",
+                        "endOffsets": "155,259,376,462,573,689,798,905,1004,1112,1217,1322"
+                    }
+                }
+            ]
+        }
+    ]
+}

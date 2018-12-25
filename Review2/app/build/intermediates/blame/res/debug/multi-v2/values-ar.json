@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "291,408,512,621,703,804,918,1023,1124,1220,1328,1431,1534",
+                        "endColumns": "116,103,108,81,100,113,104,100,95,107,102,102,118",
+                        "endOffsets": "403,507,616,698,799,913,1018,1119,1215,1323,1426,1529,1648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,276,385,467,568,682,787,888,984,1092,1195,1298",
+                        "endColumns": "116,103,108,81,100,113,104,100,95,107,102,102,118",
+                        "endOffsets": "167,271,380,462,563,677,782,883,979,1087,1190,1293,1412"
+                    }
+                }
+            ]
+        }
+    ]
+}

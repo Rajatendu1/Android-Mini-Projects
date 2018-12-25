@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kk-rKZ\\values-kk-rKZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,407,510,620,709,815,934,1037,1142,1240,1347,1456,1556",
+                        "endColumns": "111,102,109,88,105,118,102,104,97,106,108,99,114",
+                        "endOffsets": "402,505,615,704,810,929,1032,1137,1235,1342,1451,1551,1666"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,167,270,380,469,575,694,797,902,1000,1107,1216,1316",
+                        "endColumns": "111,102,109,88,105,118,102,104,97,106,108,99,114",
+                        "endOffsets": "162,265,375,464,570,689,792,897,995,1102,1211,1311,1426"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\AndroidStudioProjects\\Review2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu-rES\\values-eu-rES.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\db3f6e4978852217adee1fd0a4ba05e7\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,404,502,612,698,804,928,1037,1147,1246,1355,1468,1579",
+                        "endColumns": "108,97,109,85,105,123,108,109,98,108,112,110,136",
+                        "endOffsets": "399,497,607,693,799,923,1032,1142,1241,1350,1463,1574,1711"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,262,372,458,564,688,797,907,1006,1115,1228,1339",
+                        "endColumns": "108,97,109,85,105,123,108,109,98,108,112,110,136",
+                        "endOffsets": "159,257,367,453,559,683,792,902,1001,1110,1223,1334,1471"
+                    }
+                }
+            ]
+        }
+    ]
+}
